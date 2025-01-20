@@ -1,1 +1,1 @@
-2. Push changes to GitHub (Feature A edit)
+2. Push changes to GitHub (Feature B edit)

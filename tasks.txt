@@ -1,2 +1,1 @@
-1. Complete Git assignment
-2. Push changes to GitHub
+2. Push changes to GitHub (Feature A edit)
